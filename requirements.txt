@@ -1,0 +1,17 @@
+fastapi==0.117.0
+uvicorn[standard]==0.30.6
+pydantic==2.11.0
+python-dotenv==1.0.1
+httpx==0.27.2
+qdrant-client==1.9.0
+openai==1.51.0
+unstructured==0.18.3
+tiktoken==0.7.0
+orjson==3.10.7
+structlog==24.1.0
+boto3==1.34.162
+botocore==1.34.162
+
+unstructured[all-docs]
+pypdf
+tiktoken
